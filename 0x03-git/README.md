@@ -1,1 +1,1 @@
-Other for my readme.
+Other readme.
